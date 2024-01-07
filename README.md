@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @deepakp1267
-                          
--👀 I’m interested in the field of Data Science.
-
 👋 Hi, I’m Deepak Pardhi, from India.
 
 👀 I’m interested in the field of Data Science.
@@ -15,7 +11,7 @@
                    Linkedin:   https://www.linkedin.com/in/deepak-pardhi-
                    Portfolio:  https://deepakp1267.github.io/dataexpert.github.io
   
-
+Thank You!! 😊
   
 
 <!---
