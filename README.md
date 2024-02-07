@@ -7,9 +7,9 @@
 💞️ I’m looking to collaborate on impactful data-driven projects that contribute to solving real-world problems.
 
 📫 You can reach me at 
-                     Email:    deepakpardhi1267@gmail.com
-                   Linkedin:   https://www.linkedin.com/in/deepak-pardhi-
-                   Portfolio:  https://deepakp1267.github.io/dataexpert.github.io
+                     Email:      deepakpardhi1267@gmail.com
+                     Linkedin:   https://www.linkedin.com/in/deepak-pardhi-
+                     Portfolio:  https://deepakp1267.github.io/dataexpert.github.io
   
 Thank You!! 😊
   
